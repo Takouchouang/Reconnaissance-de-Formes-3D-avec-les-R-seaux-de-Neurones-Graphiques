@@ -41,5 +41,5 @@ pip install torch dgl numpy matplotlib scikit-learn
 
 
 # Auteurs
--**Takouchouang Fraisse SacreZ**
+**-Takouchouang Fraisse Sacre**
 
