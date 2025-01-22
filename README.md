@@ -38,3 +38,6 @@ Pour installer les dépendances, exécutez la commande suivante dans votre termi
 ```bash
 pip install torch dgl numpy matplotlib scikit-learn
 
+# Auteurs
+Takouchouang Fraisse Sacre
+
