@@ -25,7 +25,7 @@ Les **formes 3D** sont représentées sous forme de nuages de points ou de maill
 ## Installation
 
 ### Prérequis
-Avant de commencer, assurez-vous d'avoir installé Python 3.x ainsi que les bibliothèques suivantes :
+Avant de commencer, assurez-vous d'avoir installé Python 3.6 au moins ainsi que les bibliothèques suivantes :
 - **PyTorch**
 - **DGL** (Deep Graph Library)
 - **Numpy**
@@ -40,6 +40,6 @@ pip install torch dgl numpy matplotlib scikit-learn
 ```
 
 
-# Auteurs
+## Auteurs
 **-Takouchouang Fraisse Sacre**
 
