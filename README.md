@@ -41,6 +41,6 @@ pip install torch dgl numpy matplotlib scikit-learn
 
 
 ## Auteurs
-- Takouchouang Fraisse Sacre
-- Collaborateur : Dr Vinh 
+- **Takouchouang Fraisse Sacre**
+- Collaborateur : **Dr Vinh** 
 
