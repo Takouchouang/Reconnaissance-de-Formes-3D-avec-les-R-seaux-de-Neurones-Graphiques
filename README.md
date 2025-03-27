@@ -5,7 +5,7 @@ Ce projet a pour objectif d'explorer l'application des **réseaux de neurones gr
 
 Les **graphes** sont utilisés pour représenter les **objets en 3D**, où **les nœuds** représentent des caractéristiques des objets (par exemple, **des points de surface**) et **les arêtes** représentent les relations spatiales entre ces points. Cette approche permet de traiter les objets complexes de manière efficace, en capturant les dépendances entre les différentes parties de l'objet.
 
-Ce projet peut être appliqué dans des domaines comme la **robotique**, la **modélisation 3D** et la **reconnaissance d'objets** dans des environnements virtuels ou réels.
+Ce projet peut être appliqué dans des domaines comme la **robotique**, la **modélisation 3D** et la **reconnaissance d'objets** dans des **environnements virtuels** ou **réels**.
 
 ## Table des Matières
 - [Contexte](#contexte)
