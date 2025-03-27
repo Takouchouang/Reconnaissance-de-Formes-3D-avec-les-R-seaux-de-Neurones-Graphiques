@@ -35,9 +35,9 @@ Avant de commencer, assurez-vous d'avoir installé **Python 3.6** au moins ainsi
 ### Installation des dépendances
 Pour installer les dépendances, exécutez la commande suivante dans votre terminal :
 
-```bash
-pip install torch dgl numpy matplotlib scikit-learn
-```
+**```bash**
+**pip install torch dgl numpy matplotlib scikit-learn**
+**```**
 
 
 ## Auteurs
