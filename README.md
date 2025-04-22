@@ -18,7 +18,7 @@ Ce projet peut être appliqué dans des domaines comme la **robotique**, la **mo
 - [Licence](#licence)
 
 ## Contexte
-Les **réseaux de neurones graphiques (GNN)** sont des modèles d'apprentissage profond capables de traiter des données structurées sous forme de graphes. Dans ce projet, nous appliquons les **GNN** pour analyser des **objets 3D** et les reconnaître en utilisant des **graphes** comme représentation des objets.
+Les **réseaux de neurones graphiques (GNN)** sont des **modèles d'apprentissage profond** capables de traiter des données structurées sous forme de graphes. Dans ce projet, nous appliquons les **GNN** pour analyser des **objets 3D** et les reconnaître en utilisant des **graphes** comme représentation des objets.
 
 Les **formes 3D** sont représentées sous forme de nuages de points ou de maillages, et chaque point ou élément du maillage est un nœud dans le graphe. Les relations spatiales entre les différents points sont capturées sous forme d'arêtes, permettant au modèle d'apprendre les interactions entre les différentes parties de l'objet.
 
